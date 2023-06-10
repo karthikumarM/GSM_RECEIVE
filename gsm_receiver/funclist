@@ -1,0 +1,10 @@
+_uart_tx: CODE, 513 0 51
+_sms_text_mode: CODE, 350 0 88
+_uart_tx_char: CODE, 678 0 24
+_display_cmd: CODE, 720 0 11
+_display_str: CODE, 611 0 42
+_main: CODE, 90 0 260
+_uart_rx: CODE, 438 0 75
+_string_clear: CODE, 564 0 47
+_pulse: CODE, 653 0 25
+Total: 623
